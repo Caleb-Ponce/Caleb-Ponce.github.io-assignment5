@@ -1,0 +1,27 @@
+#wrapper{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 80%;
+  }
+img { 
+    width: 200;
+    height: auto;
+    margin-left: 20%;
+    float: left;
+}
+#bio {
+    float: left;
+    width: 40%;
+    margin: 50px;
+    background-color: grey;
+    border-radius: 25px;
+    padding: 20px;
+}
+body {
+    background-image: url("hackercode.jpg");
+}
+#title {
+    background-color: grey;
+    border-radius: 25px;
+    padding: 20px;
+}
